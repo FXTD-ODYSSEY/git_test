@@ -12,3 +12,5 @@ class Test(object):
 def update():
     print "update"
 
+if __name__ == "__main__":
+    pass
