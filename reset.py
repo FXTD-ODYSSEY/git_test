@@ -13,3 +13,6 @@ __date__ = '2022-02-25 15:46:58'
 
 
 print("reset")
+
+def reset():
+    pass
